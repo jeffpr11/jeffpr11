@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Jeffrey Prado
-- 👀 I’m interested in Web/Mobile Development, Games & AI
-- 💻 I’m currently working at Contifico as Full Stack Developer
+- 💻 Sr Software Engineer at Siigo Contifico
 - 📫 Reach me at social networks @jeffpr11
 
 <!---
